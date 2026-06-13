@@ -59,7 +59,7 @@ The goal was to identify, exploit, and document vulnerabilities in a controlled 
 
 ## 📄 Full Report
 
-👉 [Click here to view the full PDF report](./report.pdf)
+👉 [Click here to view the full PDF report](https://drive.google.com/file/d/1yuRyodyIRA-V_42biEIU8Zxvxusbl7sC/view?usp=drive_link)
 
 ---
 

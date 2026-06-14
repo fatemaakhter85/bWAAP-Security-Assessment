@@ -59,7 +59,7 @@ The goal was to identify, exploit, and document vulnerabilities in a controlled 
 
 ## 📄 Full Report
 
-👉 [Click here to view the full PDF report](https://drive.google.com/file/d/1yuRyodyIRA-V_42biEIU8Zxvxusbl7sC/view?usp=drive_link)
+👉 [Click here to view the full PDF report](https://github.com/fatemaakhter85/bWAAP-Security-Assessment/blob/main/report1.pdf)
 
 ---
 
@@ -67,7 +67,7 @@ The goal was to identify, exploit, and document vulnerabilities in a controlled 
 
 **Creative IT Institute**  
 Mentor: Rafsan Anwar  
-Phone: +88 01312-001312  
+Phone: 01312-001312  
 Email: rafsan.cit.bd@gmail.com
 
 ---
